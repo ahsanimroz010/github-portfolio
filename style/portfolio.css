@@ -68,4 +68,31 @@ nav li a{
     background-image:url('../images/developer.png'),url('../images/header_bg.png');
     background-repeat: no-repeat;
     background-position: top left, bottom right;
+    background-color: #FFF8F3;
+}
+.hello{
+    background-color:#FFF8F3;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 170px;
+    border-radius: 10px;
+    margin-top: 130px;
+}
+.tom{
+    font-size: 35px;
+    color: #181818;
+    text-align: center;
+    font-weight: bold;
+}
+.jerry{
+    color: #757575;
+    font-size: 18px;
+}
+.rabit{
+    display: flex;
+    justify-content: space-around;
+}
+.jojo{
+    color: #757575;
+    font-size: 20px;
 }
